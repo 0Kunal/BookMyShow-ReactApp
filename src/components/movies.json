@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "image":"https://upload.wikimedia.org/wikipedia/en/2/21/Bell_Bottom_film_Poster.jpg",
+        "title": "Bell Bottom",
+        "actor": "Akshay Kumar"
+    },
+    {
+        "id": 2,
+        "image":"https://upload.wikimedia.org/wikipedia/en/2/21/Bell_Bottom_film_Poster.jpg",
+        "title": "Shershah",
+        "actor": "Kiara"
+    },
+    {
+        "id": 3,
+        "image":"https://upload.wikimedia.org/wikipedia/en/2/21/Bell_Bottom_film_Poster.jpg",
+        "title": "Sultan",
+        "actor": "Salman Khan"
+    },
+    {
+        "id": 4,
+        "image":"https://upload.wikimedia.org/wikipedia/en/2/21/Bell_Bottom_film_Poster.jpg",
+        "title": "Thappad",
+        "actor": "Tapsee Pannu"
+    },
+    {
+        "id": 5,
+        "image":"https://upload.wikimedia.org/wikipedia/en/2/21/Bell_Bottom_film_Poster.jpg",
+        "title": "Raeese",
+        "actor": "Shah Rukh Khan"
+    },
+    {
+        "id": 6,
+        "image":"https://upload.wikimedia.org/wikipedia/en/2/21/Bell_Bottom_film_Poster.jpg",
+        "title": "Swadesh",
+        "actor": "Shah Rukh Khan"
+    }
+]
